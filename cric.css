@@ -1,0 +1,42 @@
+.image img:hover{
+    box-shadow:0px 10px 50px blue;
+    padding:10px;
+    background-color: rgb(15, 10, 10);
+}
+h1{
+    color:rgb(12, 187, 231)
+}
+div{
+    display:flex;
+    padding:10px;
+    border:1px solid black;
+    align-items:center;
+}
+.image{
+    
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+body{
+    border:1px solid black;
+    width:75%;
+    text-align: center;
+    margin:auto;
+    background-color: rgb(233, 233, 85);
+    
+}
+#bat{
+    font-size: 25px;
+    color:rgb(243, 67, 23);
+    text-align:center;
+   font-weight: bold;
+}
+#ball{
+    font-size: 25px;
+    color:rgb(247, 46, 11);
+    font-weight: bold;
+    text-align:center ;
+    font-style: solid;
+
+}
